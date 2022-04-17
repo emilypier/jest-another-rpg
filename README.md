@@ -19,10 +19,9 @@
 A roleplaying game played in the command line.
 
 ## Installation
-Clone this GitHub repository and install Node.js and Express.js.
+Clone this GitHub repository. in the root directory, run `npm  install` to install Node.js dependencies.
 
 ## Usage
-Visit the deployed application [here](link).
 
 ![the app in action.](/docs/assets/note-taker-image.png)
 
