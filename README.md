@@ -1,9 +1,31 @@
 # Jest Another RPG
-## Description
+![MIT license](https://img.shields.io/badge/license-MIT-yellow)
+
+## Table of Contents 
+
+* [Description](#description)
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [Built With](#built-with)
+
+* [License](#license)
+
+* [Questions](#questions)
+
+## Description 
 A roleplaying game played in the command line.
 
-## Image
-![Image of Work Day Scheduler.](/assets/code-quiz-screenshot.png)
+## Installation
+Clone this GitHub repository and install Node.js and Express.js.
+
+## Usage
+Visit the deployed application [here](link).
+
+![the app in action.](/docs/assets/note-taker-image.png)
+
 ## Built With
 * Javascript
 * ES6
@@ -11,7 +33,12 @@ A roleplaying game played in the command line.
 * object oriented programming
 * test-driven development
 
-## Website
+## License
+This application is covered under MIT license.
 
-## Made by 
-Emily Pierson
+## Questions
+Made by Emily Pierson.
+
+If you have questions, you can reach me at piersoee@gmail.com. 
+
+Visit my [GitHub](https://github.com/emilypier).
